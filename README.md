@@ -47,8 +47,7 @@ C:\Users\<username>\Saved Games\CD Projekt Red\Cyberpunk 2077
 Here are some popular websites where you can browse and download mods.
 
 - [Nexus Mods (Cyberpunk)](https://www.nexusmods.com/cyberpunk2077/)
-- [Cyberpunk Mods on GitHub](https://github.com/topics/cyberpunk-2077)
-- [Cyberpunk Modding Discord](https://discord.gg/cp77modding)
+- [Cyberpunk Modding Discord](https://discord.com/invite/redmodding)
 
 **NOTE** - It is recommended you read the mod description to see if it requires other mods or frameworks (like Cyber Engine Tweaks or REDmod).
 
@@ -75,7 +74,7 @@ Some mods require additional frameworks to function.
 ### REDmod
 - Official modding tool by CDPR.
 - Needed for mods using `.archive`, `.redmod`, or script changes.
-- Download via Steam/GOG or from the [official REDmod GitHub](https://www.cyberpunk.net/en/modding-support).
+- Download via Steam/GOG or from [here](https://www.cyberpunk.net/en/modding-support).
 
 ## Installing Mods
 Cyberpunk supports two main installation paths detailed below.
@@ -119,7 +118,7 @@ If you'd like to remove a mod after installing it, perform the following steps.
 ### Mod Conflict Management
 Conflicts can happen, especially with multiple texture or gameplay mods.
 
-We recommend using [Cyberpunk 2077 Mod Manager (CP77 Tools)](https://www.nexusmods.com/cyberpunk2077/mods/2871) to address any conflicts.
+We recommend using [Cyberpunk 2077 Mod Manager (CP77 Tools)](https://www.nexusmods.com/cyberpunk2077/mods/96) to address any conflicts.
 
 Additionally, here are some tips on preventing conflicts.
 - Sort mods and check for overlapping `.archive` files.
@@ -131,8 +130,8 @@ By now you should have a basic understanding on installing mods in Cyberpunk 207
 With thousands of mods available, you can turn Night City into anything from a cyber-noir RPG to a neon sandbox with flying cars, new weapons, and full UI overhauls!
 
 ## See Also
-- [Cyberpunk 2077 Mod Manager (CP77 Tools)](https://www.nexusmods.com/cyberpunk2077/mods/2871)
-- [Official REDmod GitHub](https://www.cyberpunk.net/en/modding-support)
+- [Cyberpunk 2077 Mod Manager (CP77 Tools)](https://www.nexusmods.com/cyberpunk2077/mods/96)
+- [REDmod](https://www.cyberpunk.net/en/modding-support)
 - [Nexus Mods](https://www.nexusmods.com/)
 
 This guide is a *work-in-progress* and will be improved on over time. If you have any feedback on how to improve the guide, please feel free to reach out!
