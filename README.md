@@ -10,6 +10,24 @@ Modding Cyberpunk is now easier than ever thanks to community tools and updated 
 
 This guide is focused on the **Windows** version of Cyberpunk 2077 via **Steam**, **GOG**, or **Epic Games**.
 
+## Table of Contents
+- [Requirements](#requirements)
+- [Backup Your Save Files!](#backup-your-save-files)
+- [Where To Find Cyberpunk Mods](#where-to-find-cyberpunk-mods)
+- [Know Your Game Version and Platform](#know-your-game-version-and-platform)
+- [Essential Tools For Modding Cyberpunk](#essential-tools-for-modding-cyberpunk)
+    - [Cyber Engine Tweaks (CET)](#cyber-engine-tweaks-cet)
+    - [REDmod](#redmod)
+- [Installing Mods](#installing-mods)
+    - [Manual (Drag & Drop)](#manual-drag--drop)
+    - [REDmod (Mod Manager)](#redmod-mod-manager)
+- [Testing Mods](#testing-mods)
+- [Uninstalling Mods](#uninstalling-mods)
+- [Notes](#notes)
+    - [Mod Conflict Management](#mod-conflict-management)
+- [See Also](#see-also)
+- [Conclusion](#conclusion)
+
 ## Requirements
 - Cyberpunk installed on your PC.
 - [7-Zip](https://www.7-zip.org/) or any archive extraction software.
@@ -43,7 +61,6 @@ Mods are generally compatible with the latest Cyberpunk version, but some may re
 | **GOG** | Yes | Fully moddable |
 | **Epic Games** | Yes | File paths may differ slightly |
 | **Console (PS/Xbox)** | No | Modding is generally **not supported** |
-
 
 ## Essential Tools For Modding Cyberpunk
 Some mods require additional frameworks to function.
