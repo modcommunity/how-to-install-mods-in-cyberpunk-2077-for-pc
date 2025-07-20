@@ -25,8 +25,8 @@ This guide is focused on the **Windows** version of Cyberpunk 2077 via **Steam**
 - [Uninstalling Mods](#uninstalling-mods)
 - [Notes](#notes)
     - [Mod Conflict Management](#mod-conflict-management)
-- [See Also](#see-also)
 - [Conclusion](#conclusion)
+- [See Also](#see-also)
 
 ## Requirements
 - Cyberpunk installed on your PC.
