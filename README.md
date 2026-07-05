@@ -2,7 +2,7 @@ A guide on how to **install mods** on **Cyberpunk 2077** for PC.
 
 This guide is focused on the **Windows** version of Cyberpunk 2077 via **Steam**, **GOG**, or **Epic Games**.
 
-[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-in-cyberpunk-2077/)
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://moddingcommunity.com/blog/how-to-install-mods-in-cyberpunk-2077/)
 
 Modding Cyberpunk is now easier than ever thanks to community tools and updated file structures! Whether you're adding a new outfit, gameplay overhaul, or visual mod, this guide will walk you through the process step-by-step.
 
